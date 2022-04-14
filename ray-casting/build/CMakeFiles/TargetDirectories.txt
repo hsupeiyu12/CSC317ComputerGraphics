@@ -1,0 +1,3 @@
+/Users/xuwentong/Desktop/csc317/computer-graphics-ray-casting/build/CMakeFiles/raycasting.dir
+/Users/xuwentong/Desktop/csc317/computer-graphics-ray-casting/build/CMakeFiles/edit_cache.dir
+/Users/xuwentong/Desktop/csc317/computer-graphics-ray-casting/build/CMakeFiles/rebuild_cache.dir
